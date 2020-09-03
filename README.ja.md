@@ -15,4 +15,4 @@
 
 導入するITAシステムのバージョンに合わせパッケージファイル（.kym）をダウンロードし、導入ITAシステムへのインポート作業と初期設定を行います。
 
-導入手順の詳細については、[導入手順書](https://exastro-suite.github.io/it-automation-docs/asset/SettingSamples_ja/cloud-system-template-1st-aws-install_ja.pdf) を参照してください。([v1.4.1 はこちら](https://github.com/exastro-suite/it-automation-docs/blob/v1.4.0/asset/SettingSamples_ja/cloud-system-template-1st-aws-install_ja.pdf))
+導入手順の詳細については、[導入手順書](https://exastro-suite.github.io/it-automation-docs/asset/SettingSamples_ja/cloud-system-template-1st-aws-install_ja.pdf) を参照してください。([ITA v1.4.1版はこちら](https://github.com/exastro-suite/it-automation-docs/blob/v1.4.0/asset/SettingSamples_ja/cloud-system-template-1st-aws-install_ja.pdf))
