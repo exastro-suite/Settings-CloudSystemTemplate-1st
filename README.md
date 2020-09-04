@@ -12,4 +12,4 @@ This template only supports Japanese.
 ## How to Use
 Please download package file (.kym) from the [releases page](https://github.com/exastro-suite/Settings-CloudSystemTemplate-1st/releases) according to the version of ITA system to introduce then perform import operation and initial setting.
 
-For details on the installation procedure, refer to the [installation manual(ja)](https://exastro-suite.github.io/it-automation-docs/asset/SettingSamples_ja/cloud-system-template-1st-aws-install_ja.pdf) . (*[v1.4.1 is here](https://github.com/exastro-suite/it-automation-docs/blob/v1.4.0/asset/SettingSamples_ja/cloud-system-template-1st-aws-install_ja.pdf))
+For details on the installation procedure, refer to the [installation manual (ja)](https://exastro-suite.github.io/it-automation-docs/asset/SettingSamples_ja/cloud-system-template-1st-aws-install_ja.pdf) . (*Exastro version 1.4.1 is [here](https://github.com/exastro-suite/it-automation-docs/blob/v1.4.0/asset/SettingSamples_ja/cloud-system-template-1st-aws-install_ja.pdf))
